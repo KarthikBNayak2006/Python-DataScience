@@ -1,0 +1,5 @@
+matplotlib is a comprehensive library for creating static ,animated and interactive visualization in python .matplotlib makes easy thing easy and hard thing possible
+
+matplotlib is a low levelgraph plotting library in python that serves as  a visalization utility.
+matplotlib was created by john D.Hunter.
+matplotlib is open-source and we can use it freely
