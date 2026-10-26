@@ -1,0 +1,20 @@
+roll_no,student_name,subject,total_classes,present,absent,excused,attendance_pct,status,classes_needed_75,last_present_date,consecutive_absences,attendance_category,risk_score,classes_needed_numeric,attendance_flag,attendance_band,base_name
+4MW23CS121,ROHITH RAO,Data Science & GenAI - 3nd Yr - CSE - A,11,7,4,0,64,Critical,5 more,2026-10-08,0,Average,1.6,5,Defaulter,Warning,ROHITH
+4MW23CS165,SUDHARSHAN BHARGAV JOSHI,Data Science & GenAI - 3nd Yr - CSE - A,11,0,11,0,0,Critical,33 more,,11,Poor,11.0,33,Defaulter,Critical,SUDHARSHAN
+4MW24CS003,ABHISHEK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50,Critical,12 more,2026-10-08,0,Poor,2.4000000000000004,12,Defaulter,Critical,ABHISHEK
+4MW24CS019,ANVESH N ACHARYA,Data Science & GenAI - 3nd Yr - CSE - A,12,5,7,0,42,Critical,16 more,2026-09-21,6,Poor,6.4,16,Defaulter,Critical,ANVESH
+4MW24CS020,ARON OWEN D'SOUZA,Data Science & GenAI - 3nd Yr - CSE - A,12,0,12,0,0,Critical,36 more,,12,Poor,12.0,36,Defaulter,Critical,ARON
+4MW24CS021,ARUNA,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50,Critical,12 more,2026-10-05,1,Poor,3.0000000000000004,12,Defaulter,Critical,ARUNA
+4MW24CS026,ATHMIK Y ACHARYA,Data Science & GenAI - 3nd Yr - CSE - A,12,8,4,0,67,Critical,4 more,2026-10-05,1,Average,2.2,4,Defaulter,Warning,ATHMIK
+4MW24CS034,DARREN DSOUZA,Data Science & GenAI - 3nd Yr - CSE - A,12,1,11,0,8,Critical,32 more,2026-08-31,11,Poor,11.0,32,Defaulter,Critical,DARREN
+4MW24CS037,DEVADIGA SUHAS SURESH,Data Science & GenAI - 3nd Yr - CSE - A,12,7,5,0,58,Critical,8 more,2026-10-08,0,Poor,2.0,8,Defaulter,Warning,DEVADIGA
+4MW24CS041,DHIKSHITH AITHAL KG,Data Science & GenAI - 3nd Yr - CSE - A,12,2,10,0,17,Critical,28 more,2026-09-07,9,Poor,9.399999999999999,28,Defaulter,Critical,DHIKSHITH
+4MW24CS046,DRUSHYA K SHETTY,Data Science & GenAI - 3nd Yr - CSE - A,12,2,10,0,17,Critical,28 more,2026-10-08,0,Poor,4.0,28,Defaulter,Critical,DRUSHYA
+4MW24CS048,GANAVI SUSHMA,Data Science & GenAI - 3nd Yr - CSE - A,12,8,4,0,67,Critical,4 more,2026-10-08,0,Average,1.6,4,Defaulter,Warning,GANAVI
+4MW24CS050,GAUTHAM G PRABHU,Data Science & GenAI - 3nd Yr - CSE - A,12,0,12,0,0,Critical,36 more,,12,Poor,12.0,36,Defaulter,Critical,GAUTHAM
+4MW24CS051,GOWRISH M SHEREGARA,Data Science & GenAI - 3nd Yr - CSE - A,12,7,5,0,58,Critical,8 more,2026-10-08,0,Poor,2.0,8,Defaulter,Warning,GOWRISH
+4MW24CS054,HARSHA S RAO,Data Science & GenAI - 3nd Yr - CSE - A,12,7,5,0,58,Critical,8 more,2026-10-08,0,Poor,2.0,8,Defaulter,Warning,HARSHA
+4MW24CS056,HIMESH PRAKASH NAIK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50,Critical,12 more,2026-09-28,3,Poor,4.2,12,Defaulter,Critical,HIMESH
+4MW24CS057,JATIN NAGESH NAIK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50,Critical,12 more,2026-10-05,1,Poor,3.0000000000000004,12,Defaulter,Critical,JATIN
+4MW24CS058,JEETHAN WELROY FERNANDES,Data Science & GenAI - 3nd Yr - CSE - A,12,1,11,0,8,Critical,32 more,2026-08-31,11,Poor,11.0,32,Defaulter,Critical,JEETHAN
+4MW25CS403,M NIRANJAN PRABHU,Data Science & GenAI - 3nd Yr - CSE - A,12,3,9,0,25,Critical,24 more,2026-09-07,9,Poor,9.0,24,Defaulter,Critical,M
